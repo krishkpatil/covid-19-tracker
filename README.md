@@ -20,14 +20,9 @@ This project was created with a focus on responsiveness and usability. The inter
 ## Technologies Used
 
 - **React**: The core of the application, allowing for efficient component-based development and dynamic user interfaces.
+- **Node.js**: Used for the server-side operations, including setting up the development environment and handling dependencies.
+- **JavaScript**: The primary programming language used for building the application's functionality.
 - **Charts.js**: Used to create the dynamic charts that visualize COVID-19 data trends.
 - **Material UI**: Provides a modern, responsive design system to ensure a consistent and accessible user interface.
 - **DiseaseAPI**: The source of all COVID-19 data, offering reliable and up-to-date information.
 
-## Setup
-
-To get this project running locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/krishkpatil/covid-19-tracker.git
